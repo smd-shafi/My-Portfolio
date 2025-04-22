@@ -522,6 +522,11 @@ span.debug {
     .project-grid{
         grid-template-columns: 1fr 1fr ;
     }
+
+
+    .contact-section {
+       position:static;
+    }
     
 }
 @media(max-width:995px){
