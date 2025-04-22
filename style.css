@@ -274,7 +274,6 @@ nav a.active{
   padding: 8px;
   border-radius: 6px;
   position: absolute;
-  bottom: 125%; /* Position above */
   left: 50%;
   transform: translateX(-50%);
   opacity: 0;
