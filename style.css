@@ -481,7 +481,7 @@ span.debug {
 @media (max-width: 1350px){
     .home{
         gap: 4rem;
-        
+        max-width: 90vw;
     }
     nav a{
         display: none;
