@@ -247,7 +247,7 @@ nav a.active{
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     justify-content: center;
-    align-items: center;
+    align-content: center;
 }
 
 .proj{
@@ -268,7 +268,6 @@ nav a.active{
 
 .tooltip-text {
   visibility: hidden;
-  width: 160px;
   background-color: #00ccff;
   color: white;
   text-align: center;
